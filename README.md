@@ -67,7 +67,7 @@ Daily notes on what I built and learned:
 
 | Date | What I learned |
 | ---- | -------------- |
-| _2026-06-18_ | Set up my own repo, understood the architecture & PydanticAI grounding contract |
+| _2026-06-18_ | Set up my own repo (renamed to Prooftext); learned SSH vs PAT and how to run two GitHub accounts on one machine with a `github-personal` SSH alias; understood the architecture & PydanticAI grounding contract |
 
 ## Running locally
 
